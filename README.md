@@ -42,8 +42,9 @@ pc挡片
 
 机器人控制系统框架
 
-![image](https://github.com/user-attachments/assets/c12ed998-77b7-4dc7-b3f9-e1ec726ad57d)  
-![image](https://github.com/user-attachments/assets/6af725dd-ddaa-4b4c-a3bf-7a60513bcef5)
+![image](https://github.com/user-attachments/assets/c12ed998-77b7-4dc7-b3f9-e1ec726ad57d)   ![image](https://github.com/user-attachments/assets/8148df44-cbf3-4fe3-8982-67a0aeba57c7)
+
+
 
 
 
