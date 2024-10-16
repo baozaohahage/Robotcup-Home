@@ -14,6 +14,12 @@
 ![image](https://github.com/user-attachments/assets/3ec180f0-5ef4-442e-a701-6a40f1047f5f)
 
 
+转urdf至仿真环境中
+
+![middle_img_v2_980f4966-2b5b-478c-9339-c22fe8a5c3dg](https://github.com/user-attachments/assets/aae23ad6-43c6-41d5-b08e-5c86957b9489)
+
+
+
 部分零件图
 
 
@@ -32,7 +38,6 @@ pc挡片
 
 4080铝型材设计
 ![image](https://github.com/user-attachments/assets/2cfc605a-1191-4851-9974-b31d09b0fc9b)
-
 
 
 
