@@ -1,7 +1,7 @@
 # Robotcup-Home
-对大学期间的Robotcup-Home家庭服务机器人硬件机械工作的开源
+🚙对大学期间的Robotcup-Home家庭服务机器人硬件机械工作的开源✈️
 
-机器三维建模总设计图soliworks
+🦍机器三维建模总设计图soliworks
 
 
 ![image](https://github.com/user-attachments/assets/1664dd2c-42e2-4d27-8bf5-64ae0e8cc367)
@@ -36,7 +36,6 @@ pc挡片
 
 
 实物图
-![image](https://github.com/user-attachments/assets/356dec95-4c16-46df-8c2e-03d330deff51)
 
 ![fdde258350eec9a9b957114522eaae6](https://github.com/user-attachments/assets/676b9baf-7777-4522-9f21-3d5f2d179d02)
 
